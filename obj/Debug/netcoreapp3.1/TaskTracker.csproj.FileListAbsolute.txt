@@ -1,0 +1,13 @@
+C:\Users\Luis\C#\TaskTracker\bin\Debug\netcoreapp3.1\TaskTracker.exe
+C:\Users\Luis\C#\TaskTracker\bin\Debug\netcoreapp3.1\TaskTracker.deps.json
+C:\Users\Luis\C#\TaskTracker\bin\Debug\netcoreapp3.1\TaskTracker.runtimeconfig.json
+C:\Users\Luis\C#\TaskTracker\bin\Debug\netcoreapp3.1\TaskTracker.runtimeconfig.dev.json
+C:\Users\Luis\C#\TaskTracker\bin\Debug\netcoreapp3.1\TaskTracker.dll
+C:\Users\Luis\C#\TaskTracker\bin\Debug\netcoreapp3.1\TaskTracker.pdb
+C:\Users\Luis\C#\TaskTracker\obj\Debug\netcoreapp3.1\TaskTracker.csprojAssemblyReference.cache
+C:\Users\Luis\C#\TaskTracker\obj\Debug\netcoreapp3.1\TaskTracker.AssemblyInfoInputs.cache
+C:\Users\Luis\C#\TaskTracker\obj\Debug\netcoreapp3.1\TaskTracker.AssemblyInfo.cs
+C:\Users\Luis\C#\TaskTracker\obj\Debug\netcoreapp3.1\TaskTracker.csproj.CoreCompileInputs.cache
+C:\Users\Luis\C#\TaskTracker\obj\Debug\netcoreapp3.1\TaskTracker.dll
+C:\Users\Luis\C#\TaskTracker\obj\Debug\netcoreapp3.1\TaskTracker.pdb
+C:\Users\Luis\C#\TaskTracker\obj\Debug\netcoreapp3.1\TaskTracker.genruntimeconfig.cache
